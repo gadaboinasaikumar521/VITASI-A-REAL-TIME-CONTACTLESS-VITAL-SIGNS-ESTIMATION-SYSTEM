@@ -1,0 +1,2 @@
+# VITASI-A-REAL-TIME-CONTACTLESS-VITAL-SIGNS-ESTIMATION-SYSTEM
+A Real-Time Contactless Vital Signs Estimation System measures vital signs like heart rate and breath rate without physical contact using technologies such as ML and PVMP algorithms, cameras, detects physiological signals like PPG  , ensuring noninvasive and hygienic monitoring. This system is ideal for healthcare, fitness, and public convenience.
